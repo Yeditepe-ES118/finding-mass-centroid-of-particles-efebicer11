@@ -15,4 +15,4 @@ def centroid(p1x, p1y, p2x, p2y, p3x, p3y, m1, m2, m3):
     
     return tot_mass, cx, cy
     
-result = centroid(1,1,2,1,1,1.5,2,1.0008,1.0008,16)
+result = centroid(1,3,4,1,3,4,1,1,1)
